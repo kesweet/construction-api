@@ -14,7 +14,12 @@ SIMPLE demo of API using Spring. This is a work in progress.
 
 These examples are using [Postman request tool](https://www.postman.com/)
 
-TODO: IMAGES
+## POST Item (send new item to controller to be saved into db)
+![POST Item Exmaple](https://raw.githubusercontent.com/welzie/construction-api/master/images/post-item.png "POST Item")
+
+## GET Items (retrieve all items out of the db and return them as JSON)
+![GET Items Exmaple](https://raw.githubusercontent.com/welzie/construction-api/master/images/get-items.png "GET Items")
+
 
 # Example JSON returned
 ```
