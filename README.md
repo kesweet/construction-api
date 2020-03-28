@@ -10,6 +10,10 @@ SIMPLE demo of API using Spring. This is a work in progress.
 1. Go to http://localhost:8080/api/items
    * You will get an empty `[]` if nothing is in the db
 
+# Use very simple Angular App
+1. Clone this repo https://github.com/welzie/item-front-end-ang
+1. Start the angular project
+
 # Use REST tool to send requests
 
 These examples are using [Postman request tool](https://www.postman.com/)
